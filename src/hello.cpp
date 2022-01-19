@@ -9,5 +9,5 @@ int main(int argc, char *argv[])
     std::cout<<"Commit 3"<<std::endl;
     std::cout<<"Commit 4"<<std::endl;
     std::cout<<"Commit 5"<<std::endl;
-    // std::cout<<"Commit 6"<<std::endl;
+    std::cout<<"Commit 6"<<std::endl;
 }
