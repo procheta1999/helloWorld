@@ -8,4 +8,5 @@ int main(int argc, char *argv[])
     std::cout<<"BUG123 Branch"<<std::endl;
     std::cout<<"Commit 3"<<std::endl;
     std::cout<<"Commit 4"<<std::endl;
+    std::cout<<"Commit 7"<<std::endl;
 }
